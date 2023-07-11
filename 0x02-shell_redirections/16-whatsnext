@@ -1,2 +1,2 @@
 #!/bin/bash
-sort A 3 "root" /etc/passwd  
+sort -i 3 "root" /etc/passwd  
